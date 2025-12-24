@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-orange)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-yellow)
+
 ROCK VS MINE PREDICTION USING SONAR DATA
 
 Problem Statement:
